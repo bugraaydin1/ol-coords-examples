@@ -1,0 +1,20 @@
+{
+	"name": "test-ol-coords",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"dependencies": {
+		"ol-coords": "file:../ol-coords"
+	},
+	"devDependencies": {
+		"parcel": "^2.0.0"
+	},
+	"scripts": {
+		"start": "parcel index.html",
+		"build": "parcel build",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
