@@ -1,0 +1,5 @@
+# parcel
+parcel/node_modules/
+parcel/.parcel-cache/
+parcel/dist/
+parcel/package-lock.json
